@@ -6,10 +6,10 @@
 <%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <html>
 <head>
-<title>libros</title>
+<title>libros </title>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 </head>
-<body>
+<body bgcolor = "blue">
 	<center>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;${sessionScope.cliente.usuario}
 		<br/><br/>
