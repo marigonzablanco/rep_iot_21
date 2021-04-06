@@ -9,7 +9,7 @@
 <body>
 	<center>
 		<h1>No se ha podido completar la operación</h1>
-		<h3>${requestScope.mensajeError}</h3>
+		<h3 style = "background-color: yellow">${requestScope.mensajeError}</h3>
 		<a href="Controller?option=toSalir">Salir</a>
 	</center>
 </body>
